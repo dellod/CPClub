@@ -2,6 +2,7 @@ s = input()
 p = input()
 flag = False
 
+#DID THIS ALL WRONG, consider the possiblility of adding a digit
 if p == s:
     flag = True
 else:
